@@ -1,0 +1,88 @@
+C:\Users\Viorel\source\repos\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie Imobiliara.csprojAssemblyReference.cache
+C:\Users\Viorel\source\repos\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.Properties.Resources.resources
+C:\Users\Viorel\source\repos\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie Imobiliara.csproj.GenerateResource.cache
+C:\Users\Viorel\source\repos\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie Imobiliara.csproj.CoreCompileInputs.cache
+C:\Users\Viorel\source\repos\Agentie Imobiliara\Agentie Imobiliara\bin\Debug\Agentie Imobiliara.exe.config
+C:\Users\Viorel\source\repos\Agentie Imobiliara\Agentie Imobiliara\bin\Debug\Agentie Imobiliara.exe
+C:\Users\Viorel\source\repos\Agentie Imobiliara\Agentie Imobiliara\bin\Debug\Agentie Imobiliara.pdb
+C:\Users\Viorel\source\repos\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie Imobiliara.exe
+C:\Users\Viorel\source\repos\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie Imobiliara.pdb
+C:\Users\Viorel\source\repos\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.login.resources
+C:\Users\Viorel\source\repos\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.pgPrincipala.resources
+C:\Users\Viorel\source\repos\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.about.resources
+C:\Users\Viorel\source\repos\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.oferte.resources
+C:\Users\Viorel\source\repos\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.adauga.resources
+C:\Users\Viorel\source\repos\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.sterge.resources
+C:\Users\Viorel\source\repos\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.Cauta.resources
+C:\Users\Viorel\source\repos\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.contact.resources
+C:\Users\coste\Desktop\Agentie Imobiliara\Agentie Imobiliara\bin\Debug\Agentie Imobiliara.exe.config
+C:\Users\coste\Desktop\Agentie Imobiliara\Agentie Imobiliara\bin\Debug\Agentie Imobiliara.exe
+C:\Users\coste\Desktop\Agentie Imobiliara\Agentie Imobiliara\bin\Debug\Agentie Imobiliara.pdb
+C:\Users\coste\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie Imobiliara.csprojAssemblyReference.cache
+C:\Users\coste\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.about.resources
+C:\Users\coste\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.adauga.resources
+C:\Users\coste\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.Cauta.resources
+C:\Users\coste\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.contact.resources
+C:\Users\coste\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.login.resources
+C:\Users\coste\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.oferte.resources
+C:\Users\coste\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.pgPrincipala.resources
+C:\Users\coste\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.Properties.Resources.resources
+C:\Users\coste\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.sterge.resources
+C:\Users\coste\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie Imobiliara.csproj.GenerateResource.cache
+C:\Users\coste\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie Imobiliara.csproj.CoreCompileInputs.cache
+C:\Users\coste\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie Imobiliara.exe
+C:\Users\coste\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie Imobiliara.pdb
+C:\Users\Viorel\Desktop\Agentie Imobiliara\Agentie Imobiliara\bin\Debug\Agentie Imobiliara.exe.config
+C:\Users\Viorel\Desktop\Agentie Imobiliara\Agentie Imobiliara\bin\Debug\Agentie Imobiliara.exe
+C:\Users\Viorel\Desktop\Agentie Imobiliara\Agentie Imobiliara\bin\Debug\Agentie Imobiliara.pdb
+C:\Users\Viorel\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie Imobiliara.csprojAssemblyReference.cache
+C:\Users\Viorel\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.about.resources
+C:\Users\Viorel\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.adauga.resources
+C:\Users\Viorel\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.Cauta.resources
+C:\Users\Viorel\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.contact.resources
+C:\Users\Viorel\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.login.resources
+C:\Users\Viorel\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.oferte.resources
+C:\Users\Viorel\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.pgPrincipala.resources
+C:\Users\Viorel\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.Properties.Resources.resources
+C:\Users\Viorel\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.sterge.resources
+C:\Users\Viorel\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie Imobiliara.csproj.GenerateResource.cache
+C:\Users\Viorel\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie Imobiliara.csproj.CoreCompileInputs.cache
+C:\Users\Viorel\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie Imobiliara.exe
+C:\Users\Viorel\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie Imobiliara.pdb
+C:\Users\Viorel\Desktop\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.register.resources
+D:\Agentie Imobiliara\Agentie Imobiliara\bin\Debug\Agentie Imobiliara.exe.config
+D:\Agentie Imobiliara\Agentie Imobiliara\bin\Debug\Agentie Imobiliara.exe
+D:\Agentie Imobiliara\Agentie Imobiliara\bin\Debug\Agentie Imobiliara.pdb
+D:\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie Imobiliara.csprojAssemblyReference.cache
+D:\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.about.resources
+D:\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.adauga.resources
+D:\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.Cauta.resources
+D:\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.contact.resources
+D:\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.login.resources
+D:\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.oferte.resources
+D:\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.pgPrincipala.resources
+D:\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.Properties.Resources.resources
+D:\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.register.resources
+D:\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.sterge.resources
+D:\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie Imobiliara.csproj.GenerateResource.cache
+D:\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie Imobiliara.csproj.CoreCompileInputs.cache
+D:\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie Imobiliara.exe
+D:\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie Imobiliara.pdb
+C:\Users\coste\Desktop\Atestat\Agentie\Agentie Imobiliara\Agentie Imobiliara\bin\Debug\Agentie Imobiliara.exe.config
+C:\Users\coste\Desktop\Atestat\Agentie\Agentie Imobiliara\Agentie Imobiliara\bin\Debug\Agentie Imobiliara.exe
+C:\Users\coste\Desktop\Atestat\Agentie\Agentie Imobiliara\Agentie Imobiliara\bin\Debug\Agentie Imobiliara.pdb
+C:\Users\coste\Desktop\Atestat\Agentie\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie Imobiliara.csprojAssemblyReference.cache
+C:\Users\coste\Desktop\Atestat\Agentie\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.about.resources
+C:\Users\coste\Desktop\Atestat\Agentie\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.adauga.resources
+C:\Users\coste\Desktop\Atestat\Agentie\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.Cauta.resources
+C:\Users\coste\Desktop\Atestat\Agentie\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.contact.resources
+C:\Users\coste\Desktop\Atestat\Agentie\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.login.resources
+C:\Users\coste\Desktop\Atestat\Agentie\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.oferte.resources
+C:\Users\coste\Desktop\Atestat\Agentie\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.pgPrincipala.resources
+C:\Users\coste\Desktop\Atestat\Agentie\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.Properties.Resources.resources
+C:\Users\coste\Desktop\Atestat\Agentie\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.register.resources
+C:\Users\coste\Desktop\Atestat\Agentie\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie_Imobiliara.sterge.resources
+C:\Users\coste\Desktop\Atestat\Agentie\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie Imobiliara.csproj.GenerateResource.cache
+C:\Users\coste\Desktop\Atestat\Agentie\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie Imobiliara.csproj.CoreCompileInputs.cache
+C:\Users\coste\Desktop\Atestat\Agentie\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie Imobiliara.exe
+C:\Users\coste\Desktop\Atestat\Agentie\Agentie Imobiliara\Agentie Imobiliara\obj\Debug\Agentie Imobiliara.pdb
